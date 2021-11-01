@@ -1,6 +1,7 @@
 # Ann Roy Collection
 ## Description
 This collection contains media material from the papers of Ann Roy, an American artist, activist, poet, feminist, and student of liberation theology who lived in Mexico from 1958 until her death in 2006. The moving image film and audio recordings reflect Roy's experiences living in Tepoztlán, Morelos, a center for international spiritual seekers offering mystic adventurism and hallucinatory experiences. There she worked with the astrologer John Starr Cooke and the feminist Margaret Fiedler. The collection includes filmed fantasy Super-8s of her young friends - who were exploring identity and magic, often under the influence of LSD and psilocybin mushrooms - as well as recordings from Roy's time teaching courses at the Center for Intercultural Documentation (CIDOC), founded by the former Catholic monsignor Ivan Illich, in Cuernavaca.
+
 Permanent address to digital collection: [https://doi.org/10.25810/15q4-1512](https://doi.org/10.25810/15q4-1512).<br /> 
 Please use the same link when sharing or citing the collection.
 ## Metadata
